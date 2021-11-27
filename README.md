@@ -3,5 +3,5 @@
 
 
 - 🔭 I’m currently not working.
-- 🌱 I’m currently learning HTML, HTML, JAVASCRIPT.
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT.
 - 📫 How to reach me: @iamtherafael
