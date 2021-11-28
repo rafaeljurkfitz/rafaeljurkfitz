@@ -1,7 +1,28 @@
-### Hi there 👋
+## Hi there 👋
 
+<div align="center">
+  <a href="https://github.com/rafaeljurkfitz">
+  <img height="160em" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rafaeljurkfitz&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  <img height="160em" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeljurkfitz&layout=compact&langs_count=8&theme=radical">
+</div>
 
+<div align="center"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/html5-plain.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/css3-plain.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/javascript-plain.svg">
+  
+  <!-- <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"> -->
+  <!-- <img align="center" alt="MATLAB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"> -->
+  <!-- <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> -->
+  <!-- <img align="center" alt="Markdown" height="20" width="50" src="https://github.com/vitorhonna/vitorhonna/blob/main/assets/markdown-white-filled.svg"> -->
+  <!-- <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
+  <!-- <img align="center" alt="Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> -->
+</div>
+ 
+<br>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@rafaeljurkfitz&langs_count=8&theme=radical&layout=compact"> 
+  <!-- <img height="160em" alt="Cat coding" src="https://media3.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif">
+</div> -->
 
-- 🔭 I’m currently not working.
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT.
-- 📫 How to reach me: @iamtherafael
+##
