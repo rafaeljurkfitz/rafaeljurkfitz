@@ -19,10 +19,11 @@
   <!-- <img align="center" alt="Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> -->
 </div>
  
+ <!-- 
 <br>
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@rafaeljurkfitz&langs_count=8&theme=radical&layout=compact"> 
   <img height="160em" alt="Cat coding" src="https://media3.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif">
 </div>
-
+-->
 ##
