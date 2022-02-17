@@ -17,7 +17,7 @@
 ## Sobre mim
 
 - 🐱‍💻 Disponível para oportunidades.
-- 👩‍💻 Atualmente, graduando em Engenharia da Computação pela [FTEC](https://www.ftec.com.br/) 🎓
+- 👩‍💻 Atualmente graduando em Engenharia da Computação pela [FTEC](https://www.ftec.com.br/) 🎓
 - 💌 Troca de ideias, dúvidas, parcerias e novas conexões! Posso te ajudar de alguma forma? Sinta-se à vontade para entrar em contato comigo pelo e-mail: rafaeljurkfitz@hotmail.com
 - 💬 Pode ser sobre qualquer coisa, ficarei feliz em ajudar :D
 
