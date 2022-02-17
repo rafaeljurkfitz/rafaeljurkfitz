@@ -38,15 +38,16 @@
 ##
  
  <div align="center">
-  <img height="160em" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rafaeljurkfitz&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  <img height="160em" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeljurkfitz&layout=compact&langs_count=8&theme=radical">
-</div>
- 
-<br>
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@rafaeljurkfitz&langs_count=8&theme=radical&layout=compact&v=2"> 
+  <img height="170em" width="50%" align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rafaeljurkfitz&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  <img height="170em" width="42%" align="left" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeljurkfitz&layout=compact&langs_count=8&theme=radical">
 </div>
 
+<!--
+<div align="center">
+  <img height="170em"  src="https://github-readme-stats.vercel.app/api/wakatime?username=@rafaeljurkfitz&langs_count=8&theme=radical&layout=compact&v=2"> 
+</div>
+-->
+<br />
 <br />
 <br />
 <br />
