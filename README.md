@@ -1,5 +1,6 @@
 ## Hi there, I'm Rafa! 👋<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"/>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
 
 ### About me
 - 🐱‍💻 Available for data science opportunities.
@@ -29,7 +30,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeljurkfitz&layout=compact&langs_count=8&theme=radical" />
 </div>
 
-![Snake animation](https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/output/github-contribution-grid-snake.svg)  -->
 
 <hr/>
 
