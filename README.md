@@ -15,7 +15,10 @@
 
 ### Technologies and Tools 
 <div align="left">
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">  
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/sql.svg">  
+  <img align="center" alt="Docker" height="30" width="40" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/docker-svgrepo-com.svg">  
+  <img align="center" alt="Google Cloud" height="40" width="40" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/google_cloud_logo_icon_159333.svg">  
 </div>
 
 ### Stats
