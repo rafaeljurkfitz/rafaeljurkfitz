@@ -4,9 +4,9 @@
 
 ### About me
 - 🐱‍💻 Available for data science opportunities.
-- 👩‍💻 Currently graduating in Computer Engineering from [FTEC](https://www.ftec.com.br/) 🎓
+- 👩‍💻 Currently graduated in Computer Engineering 🎓
 - ⚡Fun fact: I am someone extremely passionate about the financial market and cryptocurrencies.
-- 💌 Contact email: rafaeljurkfitz@hotmail.com
+- 💌 Contact email: rjurkfitz@gmail.com
 - <div style="text-align: center;">
   <a href="https://www.linkedin.com/in/rafaeljurkfitz/" target="_blank" style="text-decoration: none; color: #0077B5; font-family: Arial, sans-serif; font-size: 16px;">
     <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/raw/master/images/linkedin.svg" alt="LinkedIn" style="vertical-align: middle; margin-right: 8px;"> Connect with me on LinkedIn
@@ -19,6 +19,9 @@
   <img align="center" alt="SQL" height="30" width="40" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/sql.svg">  
   <img align="center" alt="Docker" height="30" width="40" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/docker-svgrepo-com.svg">  
   <img align="center" alt="Google Cloud" height="40" width="40" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/google_cloud_logo_icon_159333.svg">  
+  <img align="center" alt="Airflow" height="30" width="30" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/airflow-svgrepo-com.svg">
+  <img align="center" alt="Airbyte" height="40" width="40" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/Airbyte.svg">  
+  <img align="center" alt="Dbt" height="30" width="30" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/dbt-seeklogo.svg">  
 </div>
 
 <hr />
