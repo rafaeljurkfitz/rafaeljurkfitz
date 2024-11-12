@@ -1,6 +1,6 @@
-## Hi there, I'm Rafa! 👋<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"/>
+<!-- ! ## Hi there, I'm Rafa! 👋<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"/> -->
 
-<!-- ! <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">   -->
+<!-- ! <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">  -->
 
 ### About me
 - 🐱‍💻 Available for data science opportunities.
