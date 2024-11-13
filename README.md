@@ -4,7 +4,6 @@
 
 ### About me
 - Available for data science opportunities.
-- 👩‍💻 Currently graduated in Computer Engineering 🎓
 - Contact email: rjurkfitz@gmail.com
 - <div style="text-align: center;">
   <a href="https://www.linkedin.com/in/rafaeljurkfitz/" target="_blank" style="text-decoration: none; color: #0077B5; font-family: Arial, sans-serif; font-size: 16px;">
