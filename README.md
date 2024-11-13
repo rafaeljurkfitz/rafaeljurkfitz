@@ -3,10 +3,9 @@
 <!-- ! <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">  -->
 
 ### About me
-- 🐱‍💻 Available for data science opportunities.
+- Available for data science opportunities.
 - 👩‍💻 Currently graduated in Computer Engineering 🎓
-- ⚡Fun fact: I am someone extremely passionate about the financial market and cryptocurrencies.
-- 💌 Contact email: rjurkfitz@gmail.com
+- Contact email: rjurkfitz@gmail.com
 - <div style="text-align: center;">
   <a href="https://www.linkedin.com/in/rafaeljurkfitz/" target="_blank" style="text-decoration: none; color: #0077B5; font-family: Arial, sans-serif; font-size: 16px;">
     <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/raw/master/images/linkedin.svg" alt="LinkedIn" style="vertical-align: middle; margin-right: 8px;"> Connect with me on LinkedIn
