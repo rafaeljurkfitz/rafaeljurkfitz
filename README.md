@@ -13,27 +13,13 @@
 
 ### Technologies and Tools 
 <div align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
-    <img align="center" alt="SQL" height="30" width="40" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/sql.svg">
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img align="center" alt="Docker" height="30" width="40" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/docker-svgrepo-com.svg">
-  </a>
-  <a href="https://cloud.google.com/" target="_blank">
-    <img align="center" alt="Google Cloud" height="40" width="40" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/google_cloud_logo_icon_159333.svg">
-  </a>
-  <a href="https://airflow.apache.org/" target="_blank">
-    <img align="center" alt="Airflow" height="30" width="30" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/airflow-svgrepo-com.svg">
-  </a>
-  <a href="https://airbyte.com/" target="_blank">
-    <img align="center" alt="Airbyte" height="40" width="40" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/Airbyte.svg">
-  </a>
-  <a href="https://www.getdbt.com/" target="_blank">
-    <img align="center" alt="Dbt" height="30" width="30" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/dbt-seeklogo.svg">
-  </a>
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/sql.svg">  
+  <img align="center" alt="Docker" height="30" width="40" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/docker-svgrepo-com.svg">  
+  <img align="center" alt="Google Cloud" height="40" width="40" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/google_cloud_logo_icon_159333.svg">  
+  <img align="center" alt="Airflow" height="30" width="30" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/airflow-svgrepo-com.svg">
+  <img align="center" alt="Airbyte" height="40" width="40" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/Airbyte.svg">  
+  <img align="center" alt="Dbt" height="30" width="30" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/dbt-seeklogo.svg">  
 </div>
 
 <hr />
